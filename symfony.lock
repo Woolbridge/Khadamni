@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "doctrine/doctrine-bundle": {
         "version": "2.11",
         "recipe": {
@@ -55,6 +56,8 @@
             "./importmap.php"
         ]
     },
+=======
+>>>>>>> 57044f9fdf321e7a77fc86db1a81988c83432ab9
     "symfony/console": {
         "version": "6.4",
         "recipe": {
@@ -67,6 +70,7 @@
             "./bin/console"
         ]
     },
+<<<<<<< HEAD
     "symfony/debug-bundle": {
         "version": "6.4",
         "recipe": {
@@ -79,6 +83,8 @@
             "./config/packages/debug.yaml"
         ]
     },
+=======
+>>>>>>> 57044f9fdf321e7a77fc86db1a81988c83432ab9
     "symfony/flex": {
         "version": "2.4",
         "recipe": {
@@ -110,6 +116,7 @@
             "./src/Kernel.php"
         ]
     },
+<<<<<<< HEAD
     "symfony/mailer": {
         "version": "6.4",
         "recipe": {
@@ -182,6 +189,8 @@
             "./tests/bootstrap.php"
         ]
     },
+=======
+>>>>>>> 57044f9fdf321e7a77fc86db1a81988c83432ab9
     "symfony/routing": {
         "version": "6.4",
         "recipe": {
@@ -194,6 +203,7 @@
             "./config/packages/routing.yaml",
             "./config/routes.yaml"
         ]
+<<<<<<< HEAD
     },
     "symfony/security-bundle": {
         "version": "6.4",
@@ -278,5 +288,7 @@
     },
     "twig/extra-bundle": {
         "version": "v3.8.0"
+=======
+>>>>>>> 57044f9fdf321e7a77fc86db1a81988c83432ab9
     }
 }
